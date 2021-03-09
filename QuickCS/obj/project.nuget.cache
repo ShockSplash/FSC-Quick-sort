@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iwX9yoX7RrcRKASb2VBnIyjln4z98eITdCPWChbmasYgatgAgpo2lHHMN8y3bmBOQ3vBb2t4Svn6a2njicpNFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\QuickCS\\QuickCS\\QuickCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fsharp.core\\5.0.1\\fsharp.core.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
